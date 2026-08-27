@@ -4,6 +4,14 @@ A machine learning project developed as part of the **CodeAlpha Data Science Int
 
 The project analyzes advertising expenditure across **TV, Radio, and Newspaper** channels and builds regression models to predict sales.
 
+## Streamlit Application
+
+The trained model is deployed through a Streamlit web application.
+
+### Live Demo
+
+[Launch the Sales Prediction App](https://codealphasalesprediction-kdq9meskjhkzb84lpuobkd.streamlit.app/)
+
 ## Project Overview
 
 The objective of this project is to understand how advertising investment relates to sales and develop a machine learning model capable of predicting sales from advertising budgets.
